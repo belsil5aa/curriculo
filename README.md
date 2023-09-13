@@ -1,5 +1,7 @@
 ## Curriculo web
 
+![Capa do projeto](img/curriculo.gif)
+
 Projeto de currículo construído utilizando linguagens: <br>
 
 HTML5 <br>
